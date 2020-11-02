@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--
+	Arcana by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>THD Poitou-Charentes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <div id="header">
+        <!-- Logo -->
+        <h2 style="text-align: center; height: 47px; margin-top: -24px;"><span style="color: #1992e0;"><b><a
+
+                href="index.html">PCH </a><a href="index.html">TRÈS HAUT DÉBIT</a></b></span>
+        </h2>
+        <h1 style="text-align: center; margin-top: -35px; height: 43px;"><span style="color: #081c66;"><b>DR
+              Poitou-Charentes Enedis</b></span></h1>
+        <!-- Nav -->
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="Tableau%201.html">Déploiement</a></li>
+            <li class="current"><a span="" href="Contacte.html">Information</a></li>
+          </ul>
+        </nav>
+      </div>
+      <!-- Main -->
+      <section class="wrapper style1">
+        <div class="container">
+          <div id="content">
+            <!-- Content -->
+            <article>
+              <header>
+                <h2>Titre</h2>
+                <p>Texte</p>
+              </header>
+              <title>Titre</title>
+              <!--Contact--><br>
+              <p>Texte</p>
+              <p><span class="image featured"><br>
+                </span> </p>
+              <p>Texte </p>
+              <h3>Contact</h3>
+              <p>Texte </p>
+               <iframe src="Formulaire.html" name="demo" height="600" width="900"></iframe>
+              <p><span class="image featured"></span></p>
+            </article>
+          </div>
+        </div>
+      </section>
+      <!-- Footer -->
+      <div id="footer">
+        <div class="container">
+          <div class="row">
+            <section class="col-3 col-6-narrower col-12-mobilep">
+              <h3>Liens utiles </h3>
+              <ul class="links">
+                <li><a href="https://www.arcep.fr" target="_top">Arcep</a></li>
+                <li><a href="https://cartefibre.arcep.fr/index.html?lng=2.9155336656537543&amp;amp;lat=46&amp;amp;zoom=5.5&amp;amp;mode=normal&amp;amp;legende=true&amp;amp;filter=true&amp;amp;trimestre=2019T3%0A">Carte
+                    de suivi du déploiement</a> </li>
+                <li><a href="https://www.amenagement-numerique.gouv.fr/">Aménagement
+                    numérique</a></li>
+                <li><a href="https://www.economie.gouv.fr/plan-france-tres-haut-debit-garantir-acces-internet-performant-territoire=%22">Plan
+                    France Très Haut Débit</a></li>
+              </ul>
+            </section>
+            <section class="col-3 col-6-narrower col-12-mobilep">
+              <h3>Notre Mission </h3>
+              <ul class="links">
+                <li><a href="https://www.enedis.fr/deployer-le-tres-haut-debit">Enedis
+                    Collectivité<br>
+                  </a></li>
+              </ul>
+            </section>
+          </div>
+          <!-- Icons -->
+          <ul class="icons">
+          </ul>
+          <!-- Copyright -->
+          <div class="copyright">
+            <ul class="menu">
+              <li>© Untitled. All rights reserved</li>
+              <li>Cellule THD Dr.Poitou-Charentes<a href="http://html5up.net"><br>
+                </a></li>
+            </ul>
+          </div>
+        </div>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.dropotron.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script> </div>
+    </div>
+  </body>
+</html>
