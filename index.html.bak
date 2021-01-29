@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!--
+	Arcana by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Arcana by HTML5 UP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <div id="header">
+        <!-- Logo -->
+        <h1><a href="index.html" id="logo">PCH TRÈS HAUT DÉBIT &nbsp; <em>Poitous
+              Charente<br>
+            </em></a></h1>
+        <!-- Nav -->
+        <nav id="nav">
+          <ul>
+            <li class="current"><a href="index.html">Accueil</a></li>
+            <li><a href="right-sidebar.html">Déploiement</a></li>
+            <li><a href="no-sidebar.html">Informations</a></li>
+          </ul>
+        </nav>
+      </div>
+      <!-- Banner --></div>
+    <table style="width: 100%" border="1">
+      <tbody>
+        <tr>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div style="text-align: center;"><a href="#"></a></div>
+    <div style="text-align: center;"><a href="file:///C:/Users/JM4F20EN.NTKD0/Desktop/Site%20internet/html5up-arcana/images/banner.jpg"><img
+
+          src="file:///C:/Users/JM4F20EN.NTKD0/Desktop/Site%20internet/html5up-arcana/images/fibre-optique.jpg"
+
+          alt="" style="width: 869px; height: 285px;"></a></div>
+    <br>
+    <section class="wrapper style1">
+      <div class="container">
+        <div class="row gtr-200">
+          <section class="col-4 col-12-narrower">
+            <div class="box highlight">
+              <h3>Simplification </h3>
+              Afin de faciliter et d'accélérer le déploiement de la fibre
+              optique, Enedis propose aux opérateurs télécoms et aux
+              collectivités, l'utilisation des infrastructures électriques
+              (supports de lignes aériennes).<br>
+              <p><br>
+                <br>
+                <br>
+              </p>
+            </div>
+          </section>
+          <section class="col-4 col-12-narrower">
+            <div class="box highlight">
+              <h3>Accompagnement</h3>
+              <p>La DR Poitou-Charentes a fait le choix de créer une structure
+                dédiée au déploiement et d'accompagner les opérateurs pour
+                celui-ci.</p>
+            </div>
+          </section>
+          <section class="col-4 col-12-narrower">
+            <div class="box highlight">
+              <h3>Confidentialité</h3>
+              <p>Respect des données privées et sensibles liées au plan Très
+                Haut Débit.</p>
+            </div>
+          </section>
+        </div>
+      </div>
+    </section>
+    <!-- Gigantic Heading -->
+    <section class="wrapper style2">
+      <div class="container">
+        <header class="major">
+          <h2>Plan France Très Haut Débit&nbsp; </h2>
+          <h1>Le Plan France Très Haut Débit est une stratégie adoptée le 28
+            février 2013 par le gouvernement français. Elle vise à couvrir
+            l’intégralité du territoire en très haut débit</h1>
+        </header>
+      </div>
+    </section>
+    <!-- CTA -->
+    <section id="cta" class="wrapper style3">
+      <div class="container">
+        <header>
+          <h2>La cellule THD Poitou-Charente</h2>
+          <h1 style=" margin-top: -4.3333px;"> <span style="color: black;">La
+              cellule THD travaille avec les opérateurs et leurs prestataires.
+              Elle n'a pas pour vocation à répondre aux clients.<br>
+              Nous avons donc décidé de donner un visuel plus large aux AODE et
+              collectivités sur l'avancement du Plan France Très Haut Débit. </span></h1>
+        </header>
+      </div>
+    </section>
+    <!-- Footer -->
+    <div id="footer">
+      <div class="container">
+        <div class="row">
+          <section class="col-3 col-6-narrower col-12-mobilep">
+            <h3>Liens utiles </h3>
+            <ul class="links">
+              <li><a href="https://www.arcep.fr" target="_top">Arcep</a></li>
+              <li><a href="https://cartefibre.arcep.fr/index.html?lng=2.9155336656537543&amp;amp;lat=46&amp;amp;zoom=5.5&amp;amp;mode=normal&amp;amp;legende=true&amp;amp;filter=true&amp;amp;trimestre=2019T3%0A">Carte
+                  de suivi du déploiement</a> </li>
+              <li><a href="https://www.amenagement-numerique.gouv.fr/">Aménagement
+                  numérique</a></li>
+              <li><a href="https://www.economie.gouv.fr/plan-france-tres-haut-debit-garantir-acces-internet-performant-territoire=%22">Plan
+                  France Très Haut Débit</a></li>
+            </ul>
+          </section>
+          <section class="col-3 col-6-narrower col-12-mobilep">
+            <h3>Notre Mission </h3>
+            <ul class="links">
+              <li><a href="https://www.enedis.fr/deployer-le-tres-haut-debit">Enedis
+                  Collectivité<br>
+                </a></li>
+            </ul>
+          </section>
+          <section class="col-3 col-6-narrower col-12-mobilep"> </section>
+        </div>
+      </div>
+      <!-- Copyright -->
+      <div class="copyright">
+        <ul class="menu">
+          <li>© Untitled. All rights reserved</li>
+          <li>Cellule THD Dr.Poitou-Charentes</li>
+        </ul>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
